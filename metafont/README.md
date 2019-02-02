@@ -6,10 +6,10 @@ See [metafont.ipynb](./metafont.ipynb)
 
 De [1]:
 > [...] existe una plétora de buenos problemas matemáticos que aún están
-> esperando para ser solucionados, casí en cualquier para que se mire,
-> especialmente en áreas de la vida dond las mamtématicas raramente se han
+> esperando para ser solucionados, casí en cualquier parte que se mire,
+> especialmente en áreas de la vida donde las mamtématicas raramente se han
 > aplicado antes. Las matenáticas pude proveer soluciones a estos problemas, 
-> recibiendo a cambio una doble recompensa: El placer de trabajar de trabajar
+> recibiendo a cambio una doble recompensa: El placer de trabajar
 > en matemáticas, junto con el agradecimiento de la gente que puede usar
 > esas soluciones. Así que anímense y apliquen las matemáticas de nuevas 
 > maneras.
