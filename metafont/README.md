@@ -5,18 +5,14 @@ From: [Metafont introduction](https://www.win.tue.nl/~aeb/tex/mf/metafont.html)
 See [metafont.ipynb](./metafont.ipynb)
 
 De [1]:
-  [...]
-  there are plenty of good mathematical problems still waiting to be
-  solved, almost everywhere you look—especially in areas of life where
-  
-  
-mathematics has rarely been applied before. Mathematicians can provide
-solutions to these problems, receiving a double payoff—namely the pleasure
-of working out the mathematics, together with the appreciation of the people
-who can use the solutions. So let's go forth and apply mathematics in new
-ways.
-Acknowled
-
+> [...] existe una plétora de buenos problemas matemáticos que aún están
+> esperando para ser solucionados, casí en cualquier para que se mire,
+> especialmente en áreas de la vida dond las mamtématicas raramente se han
+> aplicado antes. Las matenáticas pude proveer soluciones a estos problemas, 
+> recibiendo a cambio una doble recompensa: El placer de trabajar de trabajar
+> en matemáticas, junto con el agradecimiento de la gente que puede usar
+> esas soluciones. Así que anímense y apliquen las matemáticas de nuevas 
+> maneras.
 
 References: 
 
